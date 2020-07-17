@@ -1,5 +1,6 @@
-* **Title**: Separable Reversible Data Hiding in Encrypted JPEG Bitstreams
-* Tags: Steganography, Jpeg, Reversible Data Hiding in Encrypted Images(RDH-EI)
+**Title**: Separable Reversible Data Hiding in Encrypted JPEG Bitstreams
+
+Tags: Steganography, Jpeg, Reversible Data Hiding in Encrypted Images(RDH-EI)
 
 **Problem**
 
